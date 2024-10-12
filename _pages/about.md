@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+![Illustration of a robot](/images/robot.jpg){: align-right width="300px"}
 ## Aspiring Machine Learning Engineer
 
 🛠️ With hands-on experience in developing artificial intelligence algorithms and solutions for practical use cases.
